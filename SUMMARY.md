@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [blog](https://e12e.com)
 
 ## 翻译
 
